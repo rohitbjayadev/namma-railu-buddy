@@ -1,0 +1,1 @@
+NammaRailuBuddy is an Android-based train companion application designed to make railway travel easier, smarter, and more interactive for passengers. The app provides station search, train details, coach layout visualization, live travel assistance, and community-driven updates for a better travel experience.
